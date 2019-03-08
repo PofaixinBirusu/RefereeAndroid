@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RefereeAndroid</string>
+    <string name="score_title">跆拳道级位考试系统</string>
+    <string name="max_score">100</string>
+</resources>
